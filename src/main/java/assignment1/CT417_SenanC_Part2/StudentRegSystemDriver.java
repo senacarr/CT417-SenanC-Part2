@@ -1,6 +1,6 @@
 package assignment1.CT417_SenanC_Part2;
 
-import assignment1.CT417_SenanC_Part1.*;
+import assignment1.CT417_SenanC_Part1.Student;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Random;
